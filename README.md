@@ -1,3 +1,3 @@
 # learning git
 
-leaning a version control system
+Learning a version control system.
